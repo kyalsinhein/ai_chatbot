@@ -2,6 +2,8 @@
 
 A lightweight Python interface that connects to LM Studio to enable natural language conversations with locally-hosted Large Language Models (LLMs). The project allows users to run AI chatbots completely offline using open-source models like Llama, Mistral, and Qwen on their personal computers.
 
+View Demo Video in here : https://lnkd.in/p/eyDtN-ay
+
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
